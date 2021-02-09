@@ -1,3 +1,4 @@
+  
 function clock(selector, deadline) {
     // input validation
     if (typeof selector !== 'string' ||
